@@ -1,0 +1,5 @@
+What is 2 + 2?|4
+Chemical symbol for Gold?|Au
+Capital of France?|Paris
+3 × 5 = ?|15
+H2O is the formula for?|Water
